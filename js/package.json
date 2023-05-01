@@ -1,0 +1,16 @@
+{
+  "name": "microbatcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "benchmark": "node ./benchmark",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "mocha": "^10.2.0"
+  }
+}
